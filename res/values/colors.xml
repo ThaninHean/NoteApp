@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#9C27B0</color> <!-- Primary Color -->
+    <color name="purple_700">#7B1FA2</color> <!-- Primary Variant (darker) -->
+    <color name="teal_200">#03DAC5</color> <!-- Secondary Color -->
+    <color name="white">#FFFFFF</color> <!-- Text on Primary -->
+    <color name="black">#000000</color> <!-- Text on Secondary -->
+
+
+</resources>
